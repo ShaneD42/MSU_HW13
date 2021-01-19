@@ -4,34 +4,6 @@
 
 Burger logger App with MySQL, Node, Express, Handlebars and a homemade ORM .
 
-
-
-# Table of Contents
-
-* [Installation](#installation)
-
-* [Usage](#usage)
-
-* [License](#license)
-
-* [Contributing](#contributing)
-
-* [Tests](#tests)
-
-* [Questions](#questions)
-
-# Installation
-
-
-Dependencies must be installed to run the application properly: 
-
-* express
-
-* express-handlebars
-
-* mysql
-
-
 # Usage
 
 * **Burger App** is a restaurant app that lets users input the names of burgers they'd like to eat.
